@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+  <meta charset="UTF-8">
+  <title>Дело №B-777: Бехруз</title>
+  <style>
+    body {
+      margin: 0;
+      padding: 0;
+      background: #0f2027;  /* mystic dark theme */
+      background: linear-gradient(to right, #2c5364, #203a43, #0f2027);
+      font-family: 'Segoe UI', sans-serif;
+      color: #e0e0e0;
+    }
+
+    .container {
+      max-width: 800px;
+      margin: 60px auto;
+      background-color: rgba(0, 0, 0, 0.7);
+      padding: 40px;
+      border-radius: 20px;
+      box-shadow: 0 0 20px rgba(0, 255, 255, 0.3);
+      text-align: center;
+    }
+
+    h1 {
+      color: #00e0ff;
+      font-size: 2.5em;
+      margin-bottom: 10px;
+    }
+
+    h2 {
+      color: #a0f0ff;
+      margin-bottom: 30px;
+    }
+
+    .fact {
+      background-color: rgba(255, 255, 255, 0.05);
+      padding: 15px;
+      border-left: 5px solid #00e0ff;
+      margin: 20px 0;
+      text-align: left;
+      font-size: 1.1em;
+    }
+
+    .footer {
+      margin-top: 40px;
+      font-size: 0.9em;
+      color: #aaa;
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <h1>Дело №B-777</h1>
+    <h2>Объект: Бехруз</h2>
+
+    <div class="fact">Факт 1: Никто не видел, как он злится. Подозрительно спокоен...</div>
+    <div class="fact">Факт 2: Утверждает, что "не пьёт кофе" — но откуда тогда энергия?</div>
+    <div class="fact">Факт 3: Помог однокласснику, которого никто не помнил. Совпадение?</div>
+    <div class="fact">Факт 4: Его имя появляется в благодарностях на GitHub, хотя он «ничего не делал».</div>
+
+    <p>Исследование продолжается. Этот человек слишком хорош, чтобы быть обычным.</p>
+
+    <div class="footer">
+      Секретный проект FFDteam | 2025
+    </div>
+  </div>
+</body>
+</html>

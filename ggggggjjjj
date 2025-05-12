@@ -1,0 +1,95 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+    <meta charset="UTF-8">
+    <title>Досье на Бехруза</title>
+    <style>
+        body {
+            margin: 0;
+            padding: 0;
+            background: linear-gradient(135deg, #e0c3fc, #8ec5fc);
+            font-family: 'Segoe UI', sans-serif;
+            color: #333;
+        }
+
+        .container {
+            max-width: 800px;
+            margin: 50px auto;
+            background: #ffffffdd;
+            padding: 40px;
+            border-radius: 20px;
+            box-shadow: 0 15px 30px rgba(0, 0, 0, 0.2);
+            text-align: center;
+        }
+
+        h1 {
+            color: #8e44ad;
+            font-size: 2.8em;
+            margin-bottom: 10px;
+        }
+
+        h2 {
+            color: #2980b9;
+            margin-bottom: 20px;
+        }
+
+        .alert-box {
+            background-color: #ffcccc;
+            border-left: 8px solid #e74c3c;
+            padding: 15px;
+            margin: 20px 0;
+            font-weight: bold;
+            font-size: 1.1em;
+            border-radius: 8px;
+        }
+
+        p {
+            font-size: 1.2em;
+            line-height: 1.6em;
+        }
+
+        .footer {
+            margin-top: 40px;
+            font-size: 0.9em;
+            color: #666;
+        }
+
+        .emoji {
+            font-size: 1.5em;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>Бехруз</h1>
+        <h2>Чрезмерно хороший человек?</h2>
+
+        <div class="alert-box">
+            Осторожно! Уровень доброты превышен на 200%!
+        </div>
+
+        <p>
+            Мы провели <strong>ироничное расследование</strong> и обнаружили тревожные факты:
+        </p>
+
+        <p>
+            — Он <strong>всегда</strong> говорит «спасибо» и «пожалуйста». <br>
+            — Никогда не берет последнюю печеньку. <br>
+            — Помогает друзьям даже в 3 часа ночи!
+        </p>
+
+        <p>
+            Подозреваем, что Бехруз <em>слишком хорош</em>, чтобы быть реальным!
+        </p>
+
+        <div class="alert-box">
+            Не переживайте. Это просто шутка. Мы тебя любим, Бехруз!
+        </div>
+
+        <div class="footer">
+            Сайт создан в рамках дружеской иронии. Авторов не привлекали к ответственности.<br>
+            <span class="emoji">© 2025</span>
+        </div>
+    </div>
+</body>
+</html>
